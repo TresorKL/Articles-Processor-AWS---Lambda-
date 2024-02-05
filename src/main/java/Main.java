@@ -31,7 +31,7 @@ public class Main {
 
 
         // Set up your AWS credentials and region
-        //AwsBasicCredentials credentials = AwsBasicCredentials.create("AKIA46JMNHW3P52XGPVO", "JrR7MrJRfYEfXDmCCENEEoZ+5ye8CYISP/+k75bO");
+      
         Region region = Region.US_EAST_1; // Choose the appropriate region
 
 
