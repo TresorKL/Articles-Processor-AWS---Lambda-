@@ -1,0 +1,5 @@
+MetaContent.class
+Main.class
+MetaContent$MetaContentBuilder.class
+PostObjectSQS.class
+PostObjectSQS$PostObjectSQSBuilder.class
